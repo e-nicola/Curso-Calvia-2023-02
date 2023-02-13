@@ -3,6 +3,7 @@
 ## Curso organizado por [AstroMallorca](https://astromallorca.wordpress.com/)
 <!--- ## Docentes: [Ernesto Nicola](https://e-nicola.github.io/Sun/bio_es.html) y Mateu Esteban --->
 ## Docentes: Ernesto Nicola y Mateu Esteban
+<img src="caratula.jpeg" width=1000 align=center>
 
 1. El cielo a simple vista [PDF](PDF/2023-02-11_1_Cielo_a_Simple_Vista.pdf)
 2. El sistema solar [PDF](PDF/2023-02-11_2_Sistema_Solar.pdf)
