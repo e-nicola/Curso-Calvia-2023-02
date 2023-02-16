@@ -8,6 +8,8 @@ remote_theme: pages-themes/primer
 
 name: Curso de Introducción a la Astronomía (Calvià; 11 Feb. 2023)
 title: null
+# see: https://github.com/pages-themes/primer/issues/21
+
 #title: Curso de Astronomía 2022 en Palma de Mallorca
 #description: A short description of your site's purpose
 #name: Ernesto Nicola
