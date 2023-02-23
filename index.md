@@ -3,7 +3,6 @@
 # Curso de introducción a la astronomía
 ## Calvià 11-02-2023 ([Finca Galatzó](http://www.calvia.com/responsive/general.plt?KPAGINA=2687&KIDIOMA=2))
 ## [Curso](Projecte.md) [organizado por AstroMallorca](https://astromallorca.wordpress.com/)
-<!--- ## Docentes: [Ernesto Nicola](https://e-nicola.github.io/Sun/bio_es.html) y Mateu Esteban --->
 ## Docentes: [Ernesto Nicola](bio-ernesto.md) y [Mateu Esteban](bio-mateu.md)
 
 1. El cielo a simple vista [PDF](PDF/2023-02-11_1_Cielo_a_Simple_Vista.pdf)
