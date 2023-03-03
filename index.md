@@ -5,7 +5,7 @@
 ## [Curso](projecte.md) [organizado por AstroMallorca](https://astromallorca.wordpress.com/)
 ## Docentes: [Ernesto Nicola](bio-ernesto.md) y [Mateu Esteban](bio-mateu.md)
 
-1. El cielo a simple vista [PDF](PDF/2023-02-11_1_Cielo_a_Simple_Vista.pdf)
-2. El sistema solar [PDF](PDF/2023-02-11_2_Sistema_Solar.pdf)
-3. Objetos del cielo profundo: Estrellas, nebulosas, cúmulos y galaxias [PDF](PDF/2023-02-11_3_Cielo_Profundo.pdf)
-4. Historia del Universo [PDF](PDF/2023-02-11_4_Cosmologia.pdf)
+### 1. El cielo a simple vista [PDF](PDF/2023-02-11_1_Cielo_a_Simple_Vista.pdf)
+### 2. El sistema solar [PDF](PDF/2023-02-11_2_Sistema_Solar.pdf)
+### 3. Objetos del cielo profundo: Estrellas, nebulosas, cúmulos y galaxias [PDF](PDF/2023-02-11_3_Cielo_Profundo.pdf)
+### 4. Historia del Universo [PDF](PDF/2023-02-11_4_Cosmologia.pdf)
